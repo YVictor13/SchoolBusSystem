@@ -116,22 +116,22 @@
 
 ## 测试结果
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、主界面：
-![](https://img-blog.csdnimg.cn/20200419074318470.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、主界面：<br>
+![](https://img-blog.csdnimg.cn/20200419074318470.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、办理业务（注册新卡）
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当选择1卡业务：<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;出现1：办理新卡、2：充值、3：查询余额、4：查询已经使用次数、5：注销、0：退出：
-![](https://img-blog.csdnimg.cn/20200419074318470.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;出现1：办理新卡、2：充值、3：查询余额、4：查询已经使用次数、5：注销、0：退出：<br>
+![](https://img-blog.csdnimg.cn/20200419074318470.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、新添加卡，就输入：“姓名 卡类型 持卡单位”、否则按：“0 0 0”退出：<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果添加成功，便提示success!否则提示Wrong!<br/>
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200419074538334.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200419074538334.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2：加入新卡后便进行充值操作：输入新加的卡号（如：10002）进行加入充值金额：100,；即可：<br/>
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020041907462895.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020041907462895.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3：查询余额：输入查询卡号：如果是老师卡：提示不能充值、如果是学生和限制卡便出现充值成功的提醒：OK!<br/>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200419074656344.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:查询使用次数：（输入卡号即可）<br>
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200419074728244.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200419074728244.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5:注销卡号：输入注销卡号即可<br/>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200419074755378.png)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200419074810665.png)<br/>
